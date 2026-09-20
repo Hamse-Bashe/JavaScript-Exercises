@@ -1,4 +1,4 @@
-// Exercise 3
+// Exercise 4
 
 // Basic Function
 // function add(number1,number2) {
