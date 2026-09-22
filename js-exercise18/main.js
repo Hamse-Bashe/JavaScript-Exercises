@@ -1,6 +1,6 @@
 // Exercise 18
 
-// Creating temperature variable
+// Creating Grade variable
 let grade = 95;
 
 // Ternary operator
