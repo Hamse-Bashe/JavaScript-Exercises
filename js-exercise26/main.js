@@ -12,9 +12,6 @@ blockingFunction();
 
 // // Non blocking function
 function nonBlockingfunction(callback){
-    // alert("This is blocking function");
-    // const user = {name: "Jama", age: 40};
-    // console.log(user);
     setTimeout(()=>{
         const user = {name: "Faisal", age: 30};
         callback(user);
